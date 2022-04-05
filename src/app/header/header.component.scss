@@ -9,10 +9,10 @@ img {
     width: 32px;
     height: 32px;
     &.ka {
-        background: url('/assets/img/geo.png');
+        background: url('../../assets/img/geo.png');
     }
     &.en {
-        background: url("/assets/img/eng.png");
+        background: url("../../assets/img/eng.png");
     }
     &.inactive {
         filter: grayscale(100%);
@@ -20,8 +20,13 @@ img {
 }
 
 header {
-    margin: 20px auto;
+    margin: 0 auto;
     width: 600px;
+    background-color: #e3e6de;
+}
+
+.nav-1 {
+    padding: 20px;
 }
 
 button {
