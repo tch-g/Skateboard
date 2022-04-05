@@ -1,0 +1,11 @@
+{
+    "SIGN_IN": "Sign In",
+    "SIGN_UP": "Sign Up",
+    "SIGN_OUT": "Sign Out",
+    "EMAIL_ADDRESS": "Email address",
+    "PASSWORD": "Password",
+    "REPEAT_PASSWORD": "Repeat Password",
+    "ERR_PASS": "Enter least six symbol",
+    "SKATE_COLLECTION": "SKATEBOARD NEW COLLECTION",
+    "PRODUCT_HEADLINE": "Product Headline"
+}
